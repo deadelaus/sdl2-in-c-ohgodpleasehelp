@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1602425034 source:c:\users\msi\desktop\sadsd\main.c
+	<stdio.h>
+
+1609074459 source:c:\users\msi\desktop\projects\sadsd\main.c
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<time.h>
+
